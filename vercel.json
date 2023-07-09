@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "../backend/Server.js",
+            "destination": "../backend"
+        }
+    ]
+}
